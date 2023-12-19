@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Pritom Banik
 - 👀 I’m interested in coding and learning new things
-- 🌱 I’m currently learning data structures and algorithms
+- 🌱 I’m currently learning data structures,algorithms and also assembly language
 - 📫 How to reach me banikpritom321@gmail.com
 
 <!---
