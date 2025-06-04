@@ -4,9 +4,9 @@
 <!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=unpolishednoob&label=Profile%20views&color=0e75b6&style=flat" alt="unpolishednoob" /> </p>-->
 
 
-- 🔭 I’m currently working on **app development**
+- 🔭 I’m currently working on **web development**
 
-- 🌱 I’m currently learning **DSA , app development**
+- 🌱 I’m currently learning **app and web development**
 
 - 👯 I’m looking to collaborate on **open source**
 
